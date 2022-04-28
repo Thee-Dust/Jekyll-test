@@ -1,6 +1,6 @@
 ---
 layout: post
-title: A New Post
+title: test for docs page
 description: Description here...
 permalink: /blog/new-post/
 avatar_path: null
