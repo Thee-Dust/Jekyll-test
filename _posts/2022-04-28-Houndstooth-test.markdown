@@ -1,13 +1,14 @@
 ---
 layout: post
-title:  "A New Post"
-description: "Description here..."
+title: A New Post
+description: Description here...
 permalink: /blog/new-post/
-avatar_path: 
-section_color:
+avatar_path: null
+section_color: null
 published: false
 categories:
   - example
   - stuff
+
 ---
-This is tot take pictures for Houndstooth Docs
+<p>This is tot take pictures for Houndstooth Docs</p>
