@@ -1,7 +1,7 @@
 ---
 layout: post
 title: A New Post
-description: Description here...
+description: Here is a picture I took of Baltimore city
 permalink: null
 published: true
 categories:
