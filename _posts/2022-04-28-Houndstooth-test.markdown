@@ -3,8 +3,9 @@ layout: post
 title: test for docs page
 description: Description here...
 permalink: /blog/new-post/
-avatar_path: null
-section_color: null
+avatar_path: 
+avatar_hint:
+section_color:
 published: false
 categories:
   - example
