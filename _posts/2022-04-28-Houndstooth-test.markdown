@@ -4,7 +4,6 @@ title: test for docs page
 description: Description here...
 permalink: /blog/new-post/
 avatar_path: 
-avatar_hint: heres the picture
 section_color:
 published: false
 about:
