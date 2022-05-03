@@ -7,11 +7,11 @@ avatar_path:
 section_color:
 published: false
 about:
-	title: about title
-	title_hint: heres the title
+	- title: about title
+	- title_hint: heres the title
 categories:
   - example
   - stuff
 
 ---
-<p>This is tot take pictures for Houndstooth Docs</p>
+<p>This is to test for features/bugs</p>
