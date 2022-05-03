@@ -7,8 +7,8 @@ avatar_path:
 section_color:
 published: false
 about:
-	- title: about title
-	- title_hint: heres the title
+	title: about title
+	title_hint: heres the title
 categories:
   - example
   - stuff
