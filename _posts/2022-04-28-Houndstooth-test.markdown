@@ -7,6 +7,9 @@ avatar_path:
 avatar_hint: heres the picture
 section_color:
 published: false
+about:
+	title: about title
+	title_hint: heres the title
 categories:
   - example
   - stuff
