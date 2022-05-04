@@ -6,6 +6,7 @@ permalink: /blog/new-post/
 avatar_path: 
 avatar_hint: 
 	- add a hint
+	- or 2
 section_color:
 published: false
 subtitles: {
