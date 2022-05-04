@@ -3,7 +3,7 @@ layout: post
 title: test for houndstooth
 description: Description here...
 permalink: /blog/new-post/
-permalink_hint: | 
+permalink_hint: > 
 	what do you want the url to end with?
 	nmake sure it starts with a '/' symbol
 avatar_path: >-
