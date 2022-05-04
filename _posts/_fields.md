@@ -4,7 +4,7 @@ title:  "A New Post"
 description: "Description here..."
 permalink: /blog/new-post/
 avatar_path: 
-avatar_hint: hint here...
+avatar_hint: 
 section_color:
 published: false
 subtitles: {
