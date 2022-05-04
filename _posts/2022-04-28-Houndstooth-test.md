@@ -3,9 +3,7 @@ layout: post
 title: test for houndstooth
 description: Description here...
 permalink: /blog/new-post/
-permalink_hint: |-
-	what do you want the url to end with?
-	make sure in starts with '/' symbol
+permalink_hint: what do you want the url to end with? make sure in starts with '/' symbol
 avatar_path: >-
   https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/Thee-Dust/Jekyll-test/1651676123379-Clear.jpg
 avatar_hint: Upload a picture above
