@@ -8,8 +8,8 @@ avatar_hint: "add a hint"
 section_color:
 published: false
 about:
-	title: "about title"
-	title_hint: "add a hint"
+	subtitle: "about title"
+	subtitle_hint: "add a hint"
 categories:
   - example
   - stuff
