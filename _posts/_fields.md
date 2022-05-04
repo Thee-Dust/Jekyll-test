@@ -7,7 +7,7 @@ avatar_path:
 avatar_hint: "add a hint"
 section_color:
 published: false
-about:
+subtitles:
 	subtitle: "about title"
 	subtitle_hint: "add a hint"
 categories:

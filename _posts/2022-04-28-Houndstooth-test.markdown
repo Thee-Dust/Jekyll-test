@@ -6,9 +6,9 @@ permalink: /blog/new-post/
 avatar_path: 
 section_color:
 published: false
-about:
-	- subtitle: about title
-	- subtitle_hint: heres the hint
+subtitles:
+	subtitle: about title
+	subtitle_hint: heres the hint
 categories:
   - example
   - stuff
