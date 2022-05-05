@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "A New Post"
-description: "Description here..."
+title:  'A New Post'
+description: 'Description here...'
 permalink: /blog/new-post/
 avatar_path: 
 avatar_hint: "test"
