@@ -5,7 +5,7 @@ description: Description here...
 permalink: /blog/new-post/
 permalink_hint: |-
   3:00-7:00 PM at Maestro Entrepreneur Center, 1811 S. Laredo St.,
-  78207.               Open format work session. Come and go as you wish - this
+	78207.               Open format work session. Come and go as you wish - this
   is an opportunity for you to provide input, ask questions, learn about
   planning topics, and be part of positive change in the Westside Community
   Area.
