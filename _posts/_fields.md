@@ -9,7 +9,7 @@ section_color:
 published: false
 subtitles: {
 	subtitle: "about title",
-	subtitle_hint: "add a hint"
+	subtitle_hint: "add a hint in yaml"
 }
 categories:
   - example
