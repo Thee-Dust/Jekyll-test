@@ -5,8 +5,8 @@ description: Description here...
 permalink: /blog/new-post/
 permalink_hint: |-
   this is going to be a lot of text so i can see what it looks like.
-	  hopefully it doesnt look to bad. don't want ugly
-	  text plz
+    hopefully it doesnt look to bad. don't want ugly
+    text plz
     what do you want the url to be?
     make sure it ends with a '/' symbol
 avatar_path: https://sls-ci-bowtie-houndstooth-root-us-east-1-assets.s3.amazonaws.com/Thee-Dust/Jekyll-test/1651676123379-Clear.jpg
